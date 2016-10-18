@@ -139,7 +139,7 @@ a:after {
     min-width: 100%;
     max-width: 100%;
     height: auto;
-    /*background: #3085a3;*/
+    background-color: rgba(58,52,42,0.7);
     text-align: center;
     cursor: pointer;
 }
